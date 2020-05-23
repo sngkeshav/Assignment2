@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## Write a short comment describing this function
+## this function initializes a empty matrix to be stored in cache and recall fromcache
 
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
